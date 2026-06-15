@@ -1,0 +1,13 @@
+{
+  "name": "github_user_activity",
+  "version": "1.0.0",
+  "description": "return recent activity of the specified GitHub user using the GitHub API",
+  "license": "ISC",
+  "author": "Ahmed Elsheikh",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  }
+}
